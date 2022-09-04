@@ -1,0 +1,10 @@
+{
+    "editor.defaultFormatter": "tiehuis.zig",
+    "editor.formatOnSave": true,
+    "zls.zig_exe_path": "/usr/bin/zig",
+    "zls.path": "/home/ymdarake/zls/bin/zls",
+    "files.exclude": {
+      "**/zig-cache/**": true,
+      "**/zig-out/**": true
+    },
+  }
